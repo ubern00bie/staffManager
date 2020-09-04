@@ -18,7 +18,7 @@
 
 
   ## Installation-Instructions
-  Download and unzip files. Run 'npm install' in a terminal and then run 'index.js' to start the application.
+  Download and unzip files. Run 'npm install' in a terminal and then run 'app.js' to start the application.
 
   ## Usage-Information
   Define and modify the staff heirarchy of your organization
