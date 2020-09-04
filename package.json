@@ -1,0 +1,27 @@
+{
+  "name": "staffmanager",
+  "version": "1.0.0",
+  "description": "Command line application to manage staff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubern00bie/staffManager.git"
+  },
+  "keywords": [
+    "Manage",
+    "Staff"
+  ],
+  "author": "Jordan Benningfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubern00bie/staffManager/issues"
+  },
+  "homepage": "https://github.com/ubern00bie/staffManager#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
