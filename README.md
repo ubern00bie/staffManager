@@ -14,6 +14,8 @@
   - [Feedback](#Feedback)
   - [License](#License)
 
+[![STAFF MANAGER DEMO](./Assets/demo.PNG)](https://drive.google.com/file/d/1tmjQw0tBA1dRCBBC6ZKZ-o5EoF8eNIp3/view "Demo")
+
 
   ## Installation-Instructions
   Download and unzip files. Run 'npm install' in a terminal and then run 'index.js' to start the application.
